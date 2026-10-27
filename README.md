@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matyassykorka&label=Profile%20views&color=0e75b6&style=flat" alt="matyassykorka" /> </p>
 
-- 🔭 I’m currently working on [AssistSphere](https://github.com/MatyasSykorka/assistsphere)
+- 🔭 I’m currently working on [OpenFrontBase](https://github.com/MatyasSykorka/OpenFrontBase)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **C/C++, IoT, Embedded systems, LVGL, C#**
 
 - 💬 Ask me about **Hardware**
 
