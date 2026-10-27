@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [OpenFrontBase](https://github.com/MatyasSykorka/OpenFrontBase)
 
-- 🌱 I’m currently learning **C/C++, IoT, Embedded systems, LVGL, C#**
+- 🌱 I’m currently learning **C/C++, ESP32-S3, LVGL, C#**
 
 - 💬 Ask me about **Hardware**
 
